@@ -1,0 +1,42 @@
+[
+   {
+      "user": "coach",
+      "drink": "long black",
+      "size": "medium"
+   },
+   {
+      "user": "rochelle",
+      "drink": "flat white",
+      "size": "large"
+   },
+   {
+      "user": "rochelle",
+      "drink": "flat white",
+      "size": "medium"
+   },
+   {
+      "user": "ellis",
+      "drink": "long black",
+      "size": "small"
+   },
+   {
+      "user": "ellis",
+      "drink": "long black",
+      "size": "medium"
+   },
+   {
+      "user": "ellis",
+      "drink": "mocha",
+      "size": "small"
+   },
+   {
+      "user": "ellis",
+      "drink": "supermochacrapucaramelcream",
+      "size": "huge"
+   },
+   {
+      "user": "ellis",
+      "drink": "short espresso",
+      "size": "small"
+   }
+]
