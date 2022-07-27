@@ -33,6 +33,7 @@ namespace LINQSamples
 
             //Requirement 6
             prms.OrdersFile = "ordersunsupportedordertype.json";
+            accountant = new Accountant(prms);
             jsonTotalCostForEachUser = accountant.GetTotalCostForEachUser();
         }
     }
